@@ -4,11 +4,11 @@ headline: We cannot separate the digital world from the physical one.
 image: featured/03_development.png
 alt: A laptop surrounded by technical instruments
 description:
-  - 'Digital computation can seem abstract and ephemeral, but it does have a real-world impact. “Virtual” realities can only exist thanks to the extraction of very real materials, mass manufacturing, global supply chains and electrical energy production. Likewise, the “cloud” is constituted through infrastructure that is very much solid.'
-  - 'Sustainable design thinking can be applied at a systems architecture level, such as carefully considering hosting options for large scale, “always available” online roll-outs. Next in order of importance is optimising both server-side and client-side processing to conserve computing resources.'
+  - "Digital computation can seem abstract and ephemeral, but it does have a real-world impact. “Virtual” realities can only exist thanks to the extraction of very real materials, mass manufacturing, global supply chains and electrical energy production. Likewise, the “cloud” is constituted through infrastructure that is very much solid."
+  - "Sustainable design thinking can be applied at a systems architecture level, such as carefully considering hosting options for large scale, “always available” online roll-outs. Next in order of importance is optimising both server-side and client-side processing to conserve computing resources."
 actions:
   - copy: Choose hosting solutions powered by renewable energy wherever possible
-    tags: 
+    tags:
       - Development
       - Suppliers & Production Partners
       - Technology

@@ -6,7 +6,7 @@ alt: A woman working on a laptop
 description:
   - Apart from very few exceptions, most of our concepts will not be about sustainability itself but instead have other primary goals, e.g. emotion, spectacle and convention-breaking designs that attract and focus attention.
   - Nonetheless, when sustainability is considered at the earliest stages it becomes possible to guide the design away from unsustainable solutions that rely on heavy power usage, non-renewable/non-reusable materials or unnecessary long distance shipping.
-actions:  
+actions:
   - copy: Look for opportunities to incorporate existing materials and equipment in concepts
     tags:
       - Design
@@ -43,45 +43,45 @@ actions:
       - Equipment
       - Technology
 links:
-  -  title: In a perfect world
-     description: My students’ wishes for more sustainable design practices.
-     image: links/inaperfectworld.png
-     link: https://medium.com/@pjn123/in-a-perfect-world-my-students-wishes-for-more-sustainable-design-practices-f8efcd0fe08b
-     tags:
+  - title: In a perfect world
+    description: My students’ wishes for more sustainable design practices.
+    image: links/inaperfectworld.png
+    link: https://medium.com/@pjn123/in-a-perfect-world-my-students-wishes-for-more-sustainable-design-practices-f8efcd0fe08b
+    tags:
       - Design
       - Ideation
       - Concept
       - Post-Use
       - Modular Design
       - Research
-  -  title: Software is Polluting the World - Sustainable UX
-     description: 'Sustainable UX: a design approach to reducing carbon emissions.'
-     image: links/softwareispollutingtheworld.png
-     link: https://www.kentdebruin.com/blog/software-is-polluting-the-world
-     tags:
+  - title: Software is Polluting the World - Sustainable UX
+    description: "Sustainable UX: a design approach to reducing carbon emissions."
+    image: links/softwareispollutingtheworld.png
+    link: https://www.kentdebruin.com/blog/software-is-polluting-the-world
+    tags:
       - Design
       - Ideation
       - Concept
       - UX Design
       - Post-Use
-  -  title: Ethical Design
-     description: We design and build ethical technology that respects human rights, effort, and experience.
-     image: links/ethicaldesign.png
-     link: https://2017.ind.ie/ethical-design/
-     tags: 
+  - title: Ethical Design
+    description: We design and build ethical technology that respects human rights, effort, and experience.
+    image: links/ethicaldesign.png
+    link: https://2017.ind.ie/ethical-design/
+    tags:
       - Design
       - Concept
       - Ideation
-  -  title: Product Design for Sustainability
-     description: How products we build today can make the world more sustainable tomorrow.
-     image: links/productdesignforsustainability.png
-     link: https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e?gi=e215533cdb9#.9bpuf0fk2
-     tags: 
+  - title: Product Design for Sustainability
+    description: How products we build today can make the world more sustainable tomorrow.
+    image: links/productdesignforsustainability.png
+    link: https://uxdesign.cc/product-design-for-sustainability-3fffbb2a7f0e?gi=e215533cdb9#.9bpuf0fk2
+    tags:
       - UX Design
       - Design
-  -  title: Circular Design Guide
-     description: Explore methods that help you understand, define, make, and release circular innovations.
-     image: links/circulardesignguide.png
-     link: https://www.circulardesignguide.com/methods
-     tags: 
+  - title: Circular Design Guide
+    description: Explore methods that help you understand, define, make, and release circular innovations.
+    image: links/circulardesignguide.png
+    link: https://www.circulardesignguide.com/methods
+    tags:
       - Design

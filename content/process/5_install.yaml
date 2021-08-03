@@ -9,7 +9,7 @@ description:
 actions:
   - copy: Opt for renewable electricity derived from natural sources, wherever possible
     tags:
-      - Install 
+      - Install
       - Technology
       - Measuring
   - copy: Consider a scheduled sleep-mode when the project is not in use
@@ -20,12 +20,12 @@ actions:
       - Technology
       - Measuring
   - copy: Enable idle or low power modes on any hardware that supports these features
-    tags: 
+    tags:
       - Install
       - Technology
       - Equipment
   - copy: Consider the efficiency of heating (and insulation) or cooling (and ventilation) requirements
-    tags: 
+    tags:
       - Install
       - Equipment
       - Technology
@@ -42,8 +42,8 @@ actions:
       - Goal Setting
       - Strategy
       - Concept
-  - copy: 'Think carefully about which tasks run more efficiently locally or which could be run on cloud/server infrastructure'
-    tags: 
+  - copy: "Think carefully about which tasks run more efficiently locally or which could be run on cloud/server infrastructure"
+    tags:
       - Install
       - Equipment
       - Technology
@@ -56,7 +56,7 @@ actions:
       - Research
 links:
   - title: Bedazzled by Energy Efficiency
-    description: To focus on energy efficiency is to make present ways of life non-negotiable. 
+    description: To focus on energy efficiency is to make present ways of life non-negotiable.
     link: https://solar.lowtechmagazine.com/2018/01/bedazzled-by-energy-efficiency.html
     image: links/energyefficiency.png
     tags:

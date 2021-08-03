@@ -10,7 +10,7 @@ actions:
       - Discovery
       - Client Communication
       - Goal Setting
-  - copy: 'Set goals with the client: define a sustainable strategy and ensure both sides are aligned'
+  - copy: "Set goals with the client: define a sustainable strategy and ensure both sides are aligned"
     tags:
       - Discovery
       - Communication
@@ -50,22 +50,22 @@ actions:
       - Measuring
 
 links:
-  -  title: Waste Not
-     description: A simple way to search an open-source database of sustainable suppliers.
-     image: links/wastenot.png
-     link: https://wastenot.world
-     tags:
+  - title: Waste Not
+    description: A simple way to search an open-source database of sustainable suppliers.
+    image: links/wastenot.png
+    link: https://wastenot.world
+    tags:
       - Discovery
       - Communication
       - Production
       - Suppliers & Production Partners
       - Measuring
       - Research
-  -  title: Will you be my Partner?
-     description: Nine steps to identify and establish successful collaborations for a circular economy.
-     image: links/willyoubemypartner.png
-     link: https://assets.website-files.com/5d26d80e8836af2d12ed1269/5ecb7d25cf839d5d79d7e6ca_20200525%20-%20Collaboration%20Paper.pdf
-     tags:
+  - title: Will you be my Partner?
+    description: Nine steps to identify and establish successful collaborations for a circular economy.
+    image: links/willyoubemypartner.png
+    link: https://assets.website-files.com/5d26d80e8836af2d12ed1269/5ecb7d25cf839d5d79d7e6ca_20200525%20-%20Collaboration%20Paper.pdf
+    tags:
       - Discovery
       - Communication
       - Production

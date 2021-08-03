@@ -5,28 +5,28 @@ image: featured/06_logistics.png
 alt: Curved metal rails
 description:
   - The most efficient travel option is not to travel at all. Meetings, presentations and even on-site setup can be done remotely, given the right tools and sufficient preparation. If travel is required, we should avoid the most carbon-intensive options (e.g. air travel) wherever possible.
-  - 'Shipping of equipment and materials also needs to be considered. The “cheapest” option may have hidden costs if it requires transport over large distances.'
+  - "Shipping of equipment and materials also needs to be considered. The “cheapest” option may have hidden costs if it requires transport over large distances."
   - As a final measure, we can offer an offset model for environmental impact that cannot be otherwise prevented or mitigated, such as flights and shipping of manufactured products (e.g. electronics). This offset can include contributions to the various certified organisations that we already work with, such as Carbonkiller, Rainforest Alliance, Trees For All, etc.
 actions:
   - copy: Prefer remote (video conference) meetings and presentations
-    tags: 
+    tags:
       - Logistics
       - Studio Management
   - copy: Plan for remote access and monitoring on site, so that maintenance and even setup can be done remotely if possible
-    tags: 
+    tags:
       - Logistics
       - Studio Management
       - Team Education
   - copy: Prefer less carbon-intensive options when travelling
-    tags: 
+    tags:
       - Logistics
       - Measuring
       - Studio Management
   - copy: Keep track of unpreventable emissions, especially air travel
     tags:
-    - Logistics
-    - Measuring
-    - Team Education
+      - Logistics
+      - Measuring
+      - Team Education
   - copy: Provide an accurate summary of mitigated emissions
     tags:
       - Logistics
@@ -40,7 +40,7 @@ actions:
       - Certification
       - Suppliers & Production Partners
       - Studio Management
- 
+
 links:
   - title: Is Carbon Offsetting A Good Way To Reduce Your Environmental Impact?
     description: A genius way to reduce environmental impact?
